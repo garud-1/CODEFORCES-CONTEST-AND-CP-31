@@ -180,16 +180,8 @@ ll count_setBits(ll a)
     return ans;
 }
 
-/*
- 1. Observe Pattern In Test Cases
- 2. Implement Brute Force
- 3. Think Greedy
- 4. Build the solution in Reverse Order
- 5. Check Constraints Carefunsigned long longy & Avoid Overflow
- 6. Check if Binary Search Can be used
- 7. Check for Sliding Window Always in B
- 8. Use time to Build Logic Rather than Code
-*/
+
+
 void solve(){
     
      int n,m;cin>>n>>m;
